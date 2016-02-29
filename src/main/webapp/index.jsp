@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Check my project here<a href="index.html">link</a>
+Welcome in my project please click <a href="index.html">here</a>
 </body>
 </html>
